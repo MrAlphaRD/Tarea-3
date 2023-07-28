@@ -142,5 +142,10 @@ namespace Prog2TrabajoFinal
         {
             OpenChildForm(new Formularios.formEditar(), sender);
         }
+
+        private void pictureBox1_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
